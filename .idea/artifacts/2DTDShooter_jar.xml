@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="2DTDShooter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/2DTDShooter_jar</output-path>
+    <root id="archive" name="2DTDShooter.jar">
+      <element id="module-output" name="2DTDShooter" />
+    </root>
+  </artifact>
+</component>
